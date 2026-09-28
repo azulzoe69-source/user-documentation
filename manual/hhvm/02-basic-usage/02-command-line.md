@@ -1,4 +1,4 @@
-# Command Line
+j# Command Line
 
 In command-line (cli) mode, you run the `hhvm` binary from the command-line, execute the script and then exit HHVM immediately when the script completes.
 
